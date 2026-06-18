@@ -1,16 +1,16 @@
 import React, { useState } from "react";
 import "./App.css";
-import booksData from "./components/data.json";
+import data from "./components/data.json";
 
 function App() {
-  const [books, setBooks] = useState(booksData);
+  const [books, setBooks] = useState(data.booksData);
 
   const filterBooks = (category) => {
     if (category === "All") {
-      setBooks(booksData);
+      setBooks(data.booksData);
     } else {
       setBooks(
-        booksData.filter((item) => item.category === category)
+        data.booksData.filter((item) => item.category === category)
       );
     }
   };
