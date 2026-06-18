@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Qur'oni Karim ma'nolari tarjimasi",
+    "author": ["Shayx Muhammad Sodiq Muhammad Yusuf"],
+    "cover_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu8QYDeN8eoYIoNIZap1GHm8xxMjXQ1rv1Q&s",
+    "category": "Diniy",
+    "description": "Qur'oni Karim ma'nolarining o'zbek tilidagi tarjimasi va tafsiri.",
+    "publish_year": 2004,
+    "subject_places": "Makka, Madina",
+    "subject_times": "VII asr",
+    "subjects": ["Din", "Islom", "Tafsir"]
+  },
+  {
+    "id": "2",
+    "title": "Iymon",
+    "author": ["Shayx Muhammad Sodiq Muhammad Yusuf"],
+    "cover_img": "https://hilolnashr.uz/image/cache/catalog/001-Kitoblar/001_hilol_nashr/001_diniy/2023/iymon-new2023-web-500x750.jpg",
+    "category": "Diniy",
+    "description": "Iymon asoslari va e'tiqod masalalari haqida mukammal asar.",
+    "publish_year": 1991,
+    "subject_places": "O'zbekiston",
+    "subject_times": "Zamonaviy",
+    "subjects": ["Din", "Iymon", "Aqiyda"]
+  },
+  {
+    "id": "3",
+    "title": "Tafsiri Hilol (to'plam)",
+    "author": ["Shayx Muhammad Sodiq Muhammad Yusuf"],
+    "cover_img": "https://hilolnashr.uz/image/cache/catalog/TH_yashil_korobka_web-550x550h.jpg",
+    "category": "Diniy",
+    "description": "Qur'oni Karimning zamonaviy tafsiri.",
+    "publish_year": 2008,
+    "subject_places": "O'zbekiston",
+    "subject_times": "Zamonaviy",
+    "subjects": ["Din", "Tafsir", "Qur'on"]
+  },
+  {
+    "id": "4",
+    "title": "Islom tarixi",
+    "author": ["Shayx Muhammad Sodiq Muhammad Yusuf"],
+    "cover_img": "https://cdn-minio.mutolaa.com/media/books/2025/05/Islom_tarixi_-_1.jpg",
+    "category": "Diniy",
+    "description": "Islom dinining paydo bo'lishi va tarqalishi tarixi.",
+    "publish_year": 2017,
+    "subject_places": "Arabiston",
+    "subject_times": "Tarixiy",
+    "subjects": ["Din", "Tarix", "Islom"]
+  }
+]
